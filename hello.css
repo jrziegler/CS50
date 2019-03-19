@@ -1,0 +1,32 @@
+h1 {
+  color: #01634c;
+  text-align: center;
+}
+th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+}
+th {
+  background-color: lightgray;
+}
+table {
+  padding: 5px;
+  width: 50%;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+p {
+  color: #193651;
+  font-size: 28px;
+  font-weight: bold;
+}
+input {
+  width: 30%;
+  font-size: 14px;
+  color: blue;
+}
+button {
+  width: 10%;
+  color: blue;
+}
