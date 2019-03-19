@@ -1,2 +1,2 @@
 # CS50
-Repositorio com execicios das aulas "CS50 Web Programming with Python and Javascript"
+Repositorio com exercicios das aulas "CS50 Web Programming with Python and Javascript"
